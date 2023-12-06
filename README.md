@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Tim, a Bio-Informatics student at the University of Applied sciences Leiden. <br>Currently I am in my graduation year in which im doing an internship. <br>Here I am applying machine learning models in a biological context.<br>
+I am Tim, a Bio-Informatics student at the University of Applied sciences Leiden. <br>Currently I am in my graduation year in which i am doing an internship. <br>Here I am applying machine learning models in a biological context.<br>
 
 
 # 💻 Tech Stack:
